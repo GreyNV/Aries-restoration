@@ -8,4 +8,4 @@ This repository contains a simple prototype for the Aries Restoration company we
 - `prototype/` – HTML/CSS prototype with three pages: Landing, About, and Contact.
 
 ## Usage
-Open `prototype/index.html` in a browser to view the prototype.
+Open `index.html` in a browser. It redirects to the prototype's landing page.
