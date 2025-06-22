@@ -33,6 +33,23 @@ main {
   padding: 1em;
 }
 
+section {
+  padding: 2em 1em;
+}
+
+#why,
+#services,
+#gallery,
+#testimonials {
+  background-color: #ffffff;
+}
+
+#callout {
+  background-color: #1E2A38;
+  color: #fff;
+  text-align: center;
+}
+
 #hero {
   text-align: center;
   padding: 2em 1em;
