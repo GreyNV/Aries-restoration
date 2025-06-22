@@ -1,6 +1,6 @@
 # Aries Restoration
 
-This repository contains a simple prototype for the Aries Restoration company website.
+This repository contains a simple prototype for the Aries Restoration company website. The landing page showcases key services and contact information.
 
 ## Structure
 - `docs/TECHNICAL_TASK.md` – Technical requirements for the site.
