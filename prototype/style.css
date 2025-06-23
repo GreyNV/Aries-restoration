@@ -98,3 +98,33 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 0.5em 1em;
+}
+
+@media (max-width: 600px) {
+  .menu-toggle {
+    display: block;
+  }
+  .site-header {
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .site-header nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #1E2A38;
+  }
+  .site-header nav.open {
+    display: flex;
+  }
+  .site-header nav a {
+    margin: 1em;
+  }
+}
